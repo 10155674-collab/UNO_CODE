@@ -11,3 +11,4 @@ Then use Tools > Git > Remotes... to initialize your repository using the SSH li
 ### Commit your code
 Open the terminal and use *git add Vexcode_uno.py* and then *git commit -m "init project"* to stage your commit.
 Finally, use *git push* to push your commit over to GitHub.# UNO_CODE
+# UNO_CODE
